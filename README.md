@@ -29,4 +29,4 @@ The Mars 2020 rover mission is part of NASA's Mars Exploration Program, a long-t
 
 The mission is timed for a launch opportunity in July/August 2020 when Earth and Mars are in good positions relative to each other for landing on Mars. That is, it takes less power to travel to Mars at this time, compared to other times when Earth and Mars are in different positions in their orbits. To keep mission costs and risks as low as possible, the Mars 2020 design is based on NASA's successful Mars Science Laboratory mission architecture, including its Curiosity rover and proven landing system.
 
-Our goal is an exercise and thought experiment on how people will have the digital assets in order to acquire the necessary goods needed for life on Mars or purchase for services.
+Our goal is an exercise and thought experiment on how gaps in scientific research funding for new technologies and licenses can be covered outside of centralized markets and into a decentralized market and whether people will have the future digital assets in order to acquire the necessary goods needed for life on Mars or purchase for services.
